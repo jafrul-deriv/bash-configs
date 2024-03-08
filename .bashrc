@@ -142,5 +142,3 @@ source "$OSH"/oh-my-bash.sh
 # Example aliases
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
-[ -f ~/.fzf.bash ] && source ~/.fzf.bash
-source /usr/share/doc/fzf/examples/key-bindings.bash
